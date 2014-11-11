@@ -80,11 +80,21 @@ function drawChords (matrix, mmap, data) {
             
           function chordTip (d) {
             var p = d3.format(".1%"), q = d3.format(",.2f")
+            var error = 0;
+            
+            for (var i = 0; i < data.length; i++) {
+                if (data[i]['Genre'] === d.sname && data[i]['College'] === d.tname) {
+                    error = data[i]['Error'];
+                    break;
+                }
+            }
+            
             return "Chord Info:<br/>"
               +  d.sname + " listeners from " + d.tname
               + ": " + d.svalue + "<br/>"
               + p(d.svalue/d.stotal) + " of " + d.sname + "'s Total (" + d.stotal + ")<br/>"
-              + p(d.svalue/d.ttotal) + " of " + d.tname + "'s Total (" + d.ttotal + ")<br/>" + data[0]['Error']
+              + p(d.svalue/d.ttotal) + " of " + d.tname + "'s Total (" + d.ttotal + ")<br/>"
+              + "Margin of Error for " + d.svalue + " is : " + q(error)
           }
             
           function groupTip (d) {
