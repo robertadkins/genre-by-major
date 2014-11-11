@@ -1,109 +1,109 @@
-College,Genre,Count
-Agriculture and Natural Resources,Alternative,1
-Behavioral and Social Sciences,Alternative,1
-"Computer, Mathematical and Natural Sciences",Alternative,4
-Engineering,Alternative,4
-Journalism,Alternative,1
-Letters & Sciences,Alternative,1
-Public Health,Alternative,1
-Business,Alternative,0
-"Architecture, Planning, and Preservation",Alternative,0
-Arts and Humanities,Alternative,0
-Education,Alternative,0
-Information Studies,Alternative,0
-Agriculture and Natural Resources,Country,0
-Behavioral and Social Sciences,Country,3
-"Computer, Mathematical and Natural Sciences",Country,1
-Engineering,Country,1
-Journalism,Country,1
-Letters & Sciences,Country,0
-Public Health,Country,0
-Business,Country,2
-"Architecture, Planning, and Preservation",Country,0
-Arts and Humanities,Country,0
-Education,Country,0
-Information Studies,Country,0
-Agriculture and Natural Resources,Electronic,0
-Behavioral and Social Sciences,Electronic,3
-"Computer, Mathematical and Natural Sciences",Electronic,5
-Engineering,Electronic,7
-Journalism,Electronic,0
-Letters & Sciences,Electronic,0
-Public Health,Electronic,0
-Business,Electronic,4
-"Architecture, Planning, and Preservation",Electronic,2
-Arts and Humanities,Electronic,4
-Education,Electronic,0
-Information Studies,Electronic,0
-Agriculture and Natural Resources,Other,0
-Behavioral and Social Sciences,Other,3
-"Computer, Mathematical and Natural Sciences",Other,9
-Engineering,Other,4
-Journalism,Other,0
-Letters & Sciences,Other,0
-Public Health,Other,0
-Business,Other,1
-"Architecture, Planning, and Preservation",Other,0
-Arts and Humanities,Other,1
-Education,Other,0
-Information Studies,Other,0
-Agriculture and Natural Resources,Hip-Hop,1
-Behavioral and Social Sciences,Hip-Hop,4
-"Computer, Mathematical and Natural Sciences",Hip-Hop,14
-Engineering,Hip-Hop,16
-Journalism,Hip-Hop,2
-Letters & Sciences,Hip-Hop,2
-Public Health,Hip-Hop,4
-Business,Hip-Hop,13
-"Architecture, Planning, and Preservation",Hip-Hop,0
-Arts and Humanities,Hip-Hop,5
-Education,Hip-Hop,1
-Information Studies,Hip-Hop,0
-Agriculture and Natural Resources,Metal,0
-Behavioral and Social Sciences,Metal,2
-"Computer, Mathematical and Natural Sciences",Metal,2
-Engineering,Metal,1
-Journalism,Metal,0
-Letters & Sciences,Metal,0
-Public Health,Metal,0
-Business,Metal,0
-"Architecture, Planning, and Preservation",Metal,0
-Arts and Humanities,Metal,1
-Education,Metal,0
-Information Studies,Metal,0
-Agriculture and Natural Resources,Pop,0
-Behavioral and Social Sciences,Pop,9
-"Computer, Mathematical and Natural Sciences",Pop,9
-Engineering,Pop,3
-Journalism,Pop,1
-Letters & Sciences,Pop,4
-Public Health,Pop,1
-Business,Pop,1
-"Architecture, Planning, and Preservation",Pop,0
-Arts and Humanities,Pop,3
-Education,Pop,0
-Information Studies,Pop,0
-Agriculture and Natural Resources,R&B,0
-Behavioral and Social Sciences,R&B,2
-"Computer, Mathematical and Natural Sciences",R&B,2
-Engineering,R&B,1
-Journalism,R&B,0
-Letters & Sciences,R&B,0
-Public Health,R&B,0
-Business,R&B,2
-"Architecture, Planning, and Preservation",R&B,0
-Arts and Humanities,R&B,0
-Education,R&B,0
-Information Studies,R&B,0
-Agriculture and Natural Resources,Rock,0
-Behavioral and Social Sciences,Rock,8
-"Computer, Mathematical and Natural Sciences",Rock,7
-Engineering,Rock,19
-Journalism,Rock,0
-Letters & Sciences,Rock,3
-Public Health,Rock,3
-Business,Rock,2
-"Architecture, Planning, and Preservation",Rock,1
-Arts and Humanities,Rock,1
-Education,Rock,0
-Information Studies,Rock,1
+Genre,College,Count,Error
+Alternative,Agriculture and Natural Resources,1,0.6929646456
+Alternative,Behavioral and Social Sciences,1,0.05519420259
+Alternative,"Computer, Mathematical and Natural Sciences",4,0.0711164882
+Alternative,Engineering,4,0.06745368782
+Alternative,Journalism,1,0.3506154589
+Alternative,Letters & Sciences,1,0.1859419264
+Alternative,Public Health,1,0.2053228579
+Alternative,Business,0,0
+Alternative,"Architecture, Planning, and Preservation",0,0
+Alternative,Arts and Humanities,0,0
+Alternative,Education,0,0
+Alternative,Information Studies,0,0
+Country,Agriculture and Natural Resources,0,0
+Country,Behavioral and Social Sciences,3,0.09274481118
+Country,"Computer, Mathematical and Natural Sciences",1,0.03663059211
+Country,Engineering,1,0.03468609231
+Country,Journalism,1,0.3506154589
+Country,Letters & Sciences,0,0
+Country,Public Health,0,0
+Country,Business,2,0.1063469341
+Country,"Architecture, Planning, and Preservation",0,0
+Country,Arts and Humanities,0,0
+Country,Education,0,0
+Country,Information Studies,0,0
+Electronic,Agriculture and Natural Resources,0,0
+Electronic,Behavioral and Social Sciences,3,0.09274481118
+Electronic,"Computer, Mathematical and Natural Sciences",5,0.07869513556
+Electronic,Engineering,7,0.0866205807
+Electronic,Journalism,0,0
+Electronic,Letters & Sciences,0,0
+Electronic,Public Health,0,0
+Electronic,Business,4,0.1437095738
+Electronic,"Architecture, Planning, and Preservation",2,0.5334444329
+Electronic,Arts and Humanities,4,0.2237924965
+Electronic,Education,0,0
+Electronic,Information Studies,0,0
+Other,Agriculture and Natural Resources,0,0
+Other,Behavioral and Social Sciences,3,0.09274481118
+Other,"Computer, Mathematical and Natural Sciences",9,0.1010857319
+Other,Engineering,4,0.06745368782
+Other,Journalism,0,0
+Other,Letters & Sciences,0,0
+Other,Public Health,0,0
+Other,Business,1,0.07681599833
+Other,"Architecture, Planning, and Preservation",0,0
+Other,Arts and Humanities,1,0.126235993
+Other,Education,0,0
+Other,Information Studies,0,0
+Hip-Hop,Agriculture and Natural Resources,1,0.6929646456
+Hip-Hop,Behavioral and Social Sciences,4,0.1054058822
+Hip-Hop,"Computer, Mathematical and Natural Sciences",14,0.1186966845
+Hip-Hop,Engineering,16,0.1183215957
+Hip-Hop,Journalism,2,0.4294144851
+Hip-Hop,Letters & Sciences,2,0.2479225686
+Hip-Hop,Public Health,4,0.3246439434
+Hip-Hop,Business,13,0.1958431372
+Hip-Hop,"Architecture, Planning, and Preservation",0,0
+Hip-Hop,Arts and Humanities,5,0.2385636028
+Hip-Hop,Education,1,0
+Hip-Hop,Information Studies,0,0
+Metal,Agriculture and Natural Resources,0,0
+Metal,Behavioral and Social Sciences,2,0.07689993498
+Metal,"Computer, Mathematical and Natural Sciences",2,0.0513029517
+Metal,Engineering,1,0.03468609231
+Metal,Journalism,0,0
+Metal,Letters & Sciences,0,0
+Metal,Public Health,0,0
+Metal,Business,0,0
+Metal,"Architecture, Planning, and Preservation",0,0
+Metal,Arts and Humanities,1,0.126235993
+Metal,Education,0,0
+Metal,Information Studies,0,0
+Pop,Agriculture and Natural Resources,0,0
+Pop,Behavioral and Social Sciences,9,0.14479779
+Pop,"Computer, Mathematical and Natural Sciences",9,0.1010857319
+Pop,Engineering,3,0.05897563056
+Pop,Journalism,1,0.3506154589
+Pop,Letters & Sciences,4,0.3036418943
+Pop,Public Health,1,0.2053228579
+Pop,Business,1,0.07681599833
+Pop,"Architecture, Planning, and Preservation",0,0
+Pop,Arts and Humanities,3,0.2024279296
+Pop,Education,0,0
+Pop,Information Studies,0,0
+R&B,Agriculture and Natural Resources,0,0
+R&B,Behavioral and Social Sciences,2,0.07689993498
+R&B,"Computer, Mathematical and Natural Sciences",2,0.0513029517
+R&B,Engineering,1,0.03468609231
+R&B,Journalism,0,0
+R&B,Letters & Sciences,0,0
+R&B,Public Health,0,0
+R&B,Business,2,0.1063469341
+R&B,"Architecture, Planning, and Preservation",0,0
+R&B,Arts and Humanities,0,0
+R&B,Education,0,0
+R&B,Information Studies,0,0
+Rock,Agriculture and Natural Resources,0,0
+Rock,Behavioral and Social Sciences,8,0.1391172168
+Rock,"Computer, Mathematical and Natural Sciences",7,0.09115283969
+Rock,Engineering,19,0.1240085683
+Rock,Journalism,0,0
+Rock,Letters & Sciences,3,0.2840309842
+Rock,Public Health,3,0.3079842869
+Rock,Business,2,0.1063469341
+Rock,"Architecture, Planning, and Preservation",1,0.5334444329
+Rock,Arts and Humanities,1,0.126235993
+Rock,Education,0,0
+Rock,Information Studies,1,0
