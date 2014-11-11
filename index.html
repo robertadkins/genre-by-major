@@ -151,8 +151,7 @@
           function groupTip (d) {
             var p = d3.format(".1%"), q = d3.format(",.2f")
             return "Group Info:<br/>"
-                + d.gname + " : " + d.gvalue + "<br/>"
-                + p(d.gvalue/d.mtotal) + " of Matrix Total (" + d.mtotal + ")"
+                + d.gname + " : " + Math.floor(d.gvalue) + "<br/>"
           }
           function mouseover(d, i) {
             d3.select("#tooltip")
