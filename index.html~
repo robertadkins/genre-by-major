@@ -60,7 +60,7 @@
                     <a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>How to Read Our Data
                 </h3>
 
-                <p>Each Section along the perimeter represents either a college within University of Maryland or a genre of music. The sections are linked between all combinations of genres and colleges to show the correlations the two variables. Explore mousing over the diverent sections and connections to learn more about a specific link.</p>
+                <p>Each Section along the perimeter represents either a college within University of Maryland or a genre of music. The sections are linked between all combinations of genres and colleges to show the correlations between the two variables. Explore mousing over the diferent sections and connections to learn more about a specific link.</p>
                 <div id="tooltip"></div>
                 
                 <h3>
