@@ -42,7 +42,7 @@ function drawChords (matrix, mmap, data) {
         chord.matrix(matrix);
         var g = svg.selectAll("g.group")
             .data(chord.groups())
-          .enter().append("svg:g")
+            .enter().append("svg:g")
             .attr("class", "group")
             .on("mouseover", mouseover)
             .on("mouseout", function (d) { d3.select("#tooltip").style("visibility", "hidden") });
