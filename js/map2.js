@@ -19,7 +19,7 @@ d3.csv('data/music_survey.csv', function (error, data) {
 //  DRAW THE CHORD DIAGRAM
 //*******************************************************************
 function drawChords (matrix, mmap, data) {
-    var w = 590, h = 630, r1 = w / 2.3, r0 = r1 - 110;
+    var w = 1024, h = 1024, r1 = w / 2.3, r0 = r1 - 110;
     var fill = d3.scale.ordinal()
     .range(['#c7b570','#c6cdc7','#335c64','#768935','#507282','#5c4a56','#aa7455','#574109','#837722','#73342d','#0a5564','#9c8f57','#7895a4','#4a5456','#b0a690','#0a3542',]);
         var chord = d3.layout.chord()
@@ -28,7 +28,7 @@ function drawChords (matrix, mmap, data) {
         var arc = d3.svg.arc()
             .innerRadius(r0)
             .outerRadius(r0 + 20);
-        var svg = d3.select("#map").append("svg:svg")
+        var svg = d3.select("#map2").append("svg:svg")
             .attr("width", w)
             .attr("height", h)
           .append("svg:g")

@@ -26,3 +26,29 @@ path.chord {
 #circle:hover path.fade {
     display: none;
 }
+
+#map {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#map2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+    height: 1024px;
+}
+
+a#fullscreen {
+    padding: 10px;
+    background: white;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    text-decoration: none;
+    
+}
+a#fullscreen:hover {
+    background: #f0f0f0;  
+}
